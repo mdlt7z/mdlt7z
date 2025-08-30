@@ -1,8 +1,6 @@
 ## 2025 © mdlt7z
 
-- 🎬 Video
-- 🎨 Design
-- 💻 Coding (mayby)
+Work on Motion, Design, Coding :)
 
 ### Skills
 
