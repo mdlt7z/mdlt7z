@@ -1,14 +1,12 @@
 ## 2025 © mdlt7z
 
-work on motion, design, coding :)
+work on motion, design, develop :)
 
 ### Skills
 
-- 🌀 Motion Design
-- 🎨 Graphic Design
-- 🧩 3DCG
-- 🌐 (Web Design, Development) ...
+- 🌀 motion design
+- 🎨 graphic design
+- 🧩 3dcg
+- 🌐 web design, development
 
-### Tools
-
-`Blender` `After Effects` `Illustrator` `Figma` `VSCode` ...
+... but they’re all just hobbies.
