@@ -9,4 +9,4 @@ work on motion, design, develop :)
 - 🧩 3dcg
 - 🌐 web design, development
 
-... but they’re all just hobbies.
+they’re all just hobbies.
